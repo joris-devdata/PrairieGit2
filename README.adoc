@@ -7,5 +7,5 @@ image::https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux,350,350]
 
 You can find image:https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Linux,35,35] everywhere these days.
 
-image::./Image/modele.png
+image::./Image/modele.png[modele]
 
